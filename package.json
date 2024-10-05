@@ -1,0 +1,12 @@
+{
+  "name": "restapi",
+  "version": "1.0.0",
+  "description": "create a RESTful API without using Express",
+  "main": "server.js",
+  "scripts": {
+    "start": "node --watch server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
